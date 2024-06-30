@@ -31,10 +31,10 @@ const data = [
 
   {
     id: 3,
-    image: portfolio,
-    title: 'Portfolio, One of the best website i have made till date ',
-    github: 'https://github.com/rahulsingh3526/My-Portfolio',
-    demo: 'https://my-portfolio-five-snowy.vercel.app/'
+    image: clade,
+    title: 'Product for recruiters for taking action on different candidates ',
+    github: 'https://github.com/rahulsingh3526/Clade',
+    demo: 'https://clade-blue.vercel.app/'
   },
 
   // {
